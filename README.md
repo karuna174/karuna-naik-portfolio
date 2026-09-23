@@ -22,4 +22,4 @@ A dark, GitHub-inspired personal portfolio for a Python and full-stack software 
 streamlit run app.py
 ```
 
-The site opens at http://localhost:8501.
+The site opens at https://karuna-naik-portfolio-1444.streamlit.app/
